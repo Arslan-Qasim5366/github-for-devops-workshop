@@ -7,3 +7,13 @@ git add. (put all files to staged)
 git rm --cashe (staged to filesystem)
 git restore <filename>
 git commit 
+
+
+
+
+
+
+
+
+
+This is some new changes
