@@ -1,0 +1,9 @@
+git init
+git status
+git log
+git add <filename>
+git rm <filename>
+git add. (put all files to staged)
+git rm --cashe (staged to filesystem)
+git restore <filename>
+git commit 
